@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/c98809bb-8e40-4afd-873d-72ee9152baaf
+<!-- https://github.com/user-attachments/assets/c98809bb-8e40-4afd-873d-72ee9152baaf -->
 # Handwritten Digit Recognizer
 
 A machine learning project to recognize handwritten digits (0-9) using image data from the MNIST dataset. This project includes code for training, testing, and deploying a model that can classify images of digits. The model uses a Convolutional Neural Network (CNN) architecture to achieve high accuracy on digit recognition tasks.
